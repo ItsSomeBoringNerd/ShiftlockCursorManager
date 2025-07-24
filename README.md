@@ -1,8 +1,8 @@
-stomize the Roblox ShiftLock !
+Customize the Roblox ShiftLock !
 
 # ShiftLock Cursor Manager
 
-![App Icon](Logo.png)
+![App Icon](Logo-small.png)
 
 > Easily replace the Roblox ShiftLock cursor with any custom image
 
