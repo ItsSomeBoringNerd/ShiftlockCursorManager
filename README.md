@@ -13,7 +13,7 @@ Customize the Roblox ShiftLock !
 - Lightweight system tray app
 
 ## Usage
-1. Download the latest [release]([https://github.com/ItsSomeBoringNerd/ShiftlockCursorManager](https://github.com/ItsSomeBoringNerd/ShiftlockCursorManager/releases/tag/shitlock))
+1. Download the latest [release][https://github.com/ItsSomeBoringNerd/ShiftlockCursorManager/releases/tag/shitlock]
 2. Run `ShiftLockManager.exe`
 3. Click on the window tab ^ arrow
 4. Click "Upload Shiftlock" to select your image
